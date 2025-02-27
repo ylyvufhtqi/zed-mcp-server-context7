@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Context7 MCP Server for Zed"
 # match the style used in the rest of the module
+# handle the edge case from the last release
